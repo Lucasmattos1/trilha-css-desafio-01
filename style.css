@@ -3,7 +3,7 @@
 
 .banner{
     background: rgb(10, 1, 39);
-    width: auto;
+    width: 1440px;
     height: auto;
     text-align: justify;
 align-items: center;
@@ -48,6 +48,8 @@ font-size: 20px;
 font-weight: 400;
 line-height: 23.48px;
 color: #FFFFFF;
+position: relative;
+left: 400px;
 
 
 }
@@ -137,7 +139,7 @@ color: #FFFFFF;
 #course-content{
     background: black;
     text-align: center;
-    width: auto;
+    width: 1440px;
     height: 605px;
     gap: 0px;
     border: 0px 0px 1px 0px;
@@ -169,6 +171,8 @@ font-size: 16px;
 font-weight: 400;
 line-height: 18.78px;
 color: #FFFFFF;
+position: relative;
+left: 350px;
 
 }
 
@@ -181,16 +185,36 @@ border-width: 1px, 1px, 1px, 0px;
 border-style: solid;
 border-color: #33A8DB;
 background-image: url(images/woman-code.png);
-width: auto;
+width: 1440px;
 height: 565px;
 top: -250px;
 gap: 0px;
 border: 1px 1px 1px 0px;
-opacity: 60%;
+opacity: 80%;
 background-size: cover;
 background-attachment: fixed;
     
 }
+
+#transform-world p{
+width: 244px;
+height: 141px;
+top: 111px;
+left: 108px;
+gap: 0px;
+opacity: 0px;
+font-family: Raleway;
+font-size: 40px;
+font-weight: 900;
+line-height: 46.96px;
+text-align: left;
+color: #FFFFFF;
+text-shadow: #33A8DB 3px 2px 2px;
+text-transform: lowercase;
+position: relative;
+}
+
+
 
 #professional-challenges {
     text-align: center;
@@ -227,7 +251,8 @@ opacity: 0px;
     text-align: center;
     align-items: center;
     color: #33A8DB;
-
+    position: relative;
+    left: 350px;
 text-transform: uppercase;
 
 
@@ -237,8 +262,6 @@ text-transform: uppercase;
 #professional-challenges p{
     width: 792px;
 height: 76px;
-top: 2154px;
-left: 324px;
 gap: 0px;
 opacity: 0px;
 font-family: Raleway;
@@ -247,6 +270,8 @@ font-weight: 400;
 line-height: 18.78px;
 text-align: center;
 color: #FFFFFF;
+position: relative;
+left: 350px;
 }
 
 .footer{
@@ -267,7 +292,6 @@ align-items: center;
     
 width: auto;
 height: auto;
-top: 2321px;
 gap: 0px;
 opacity: 0px;
 background-image: linear-gradient(180deg, rgba(51, 168, 219, 0) 0%, rgba(51, 168, 219, 0.2) 99.99%, rgba(51, 168, 219, 0.2) 100%);
