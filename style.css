@@ -88,40 +88,12 @@ text-transform: uppercase;
 
 }
 
-.module1{
-    width: fixed (50px)px;
-    height: Hug (51px)px;
-    padding: 16px 127px 16px 127px;
-    gap: 10px;
-    top: 50%;
-    border-radius: 57px 57px 57px 57px;
-    border: 1px 0px 0px 0px;
-    opacity: 0px;
-    background: #252525;
-    border: 1px solid #33A8DB;
-    color:#FFFFFF;
-    text-align: center;
-}
 
 span{
     color:#33A8DB;
 }
-.module2{
-    width: Fixed (535px)px;
-height: Hug (51px)px;
-padding: 16px 127px 16px 127px;
-gap: 10px;
-border-radius: 57px 57px 57px 57px;
-border: 1px 0px 0px 0px;
-opacity: 0px;
-background: #252525;
-border: 1px solid #33A8DB;
-color: #FFFFFF;
-}
 
-
-
-.module3{
+.module{
     width: Fixed (535px)px;
 height: Hug (51px)px;
 padding: 16px 127px 16px 127px;
